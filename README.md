@@ -1,6 +1,6 @@
 # Project Description
 
-Final project of Data 100 in Spring 2020. This was an independent study with two classmates to use PCA and K-Means clustering to identify Red, Orange, and Green clusters in California counties based on 6 Socio-Economic factors and infection/death rates. Various types of equations were used to model the growth of confirmed cases in one county from each of the three regions identified. Project description is given in more detail in the PDF.
+Final project of Data 100 in Spring 2020. This was an independent study with two classmates to use PCA and K-Means clustering to identify Red, Orange, and Green clusters in California counties based on 6 Socio-Economic factors and infection/death rates. Various types of equations were used to model the growth of confirmed cases in one county from each of the three regions identified. Project description is given in more detail in the PDF Report.
 
 
 Links to the csv's:
